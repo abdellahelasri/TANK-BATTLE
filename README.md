@@ -12,6 +12,16 @@ Abdellah EL ASRI
 ![image](https://user-images.githubusercontent.com/94783026/146688438-ca75b53f-699f-472a-91c3-fa3bc662b570.png)
 ![image](https://user-images.githubusercontent.com/94783026/146688466-5006f92b-8e5d-40bb-a5ce-995c54a557d1.png)
 
+# DEPENDANCES
+  SDL 1.2 : SDL_ttf, SDL_image, SDL_gfx
+  Fichiers Source <br>
+    - La matrice de la carte <br>
+    - Les fichiers images et spirites du jeu
+    
+# COMPILATION
+  Les indtructions de compilation sont notées dans le ficher Makefile.mk
+
+
 
 
 
