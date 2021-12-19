@@ -6,7 +6,7 @@ Le jeu n'est pas destiné à être commercialisé. Certaines ressources présent
 # AUTEURS
 Abdellah EL ASRI 
 
-# AUTEURS
+# CAPTURES
 ![image](https://user-images.githubusercontent.com/94783026/146688387-ffdac82b-69a1-490b-9c33-e9600151e6a5.png)
 1![image](https://user-images.githubusercontent.com/94783026/146688420-3e4d2cea-ec71-448f-b37c-fe880c6c70d7.png)
 ![image](https://user-images.githubusercontent.com/94783026/146688438-ca75b53f-699f-472a-91c3-fa3bc662b570.png)
