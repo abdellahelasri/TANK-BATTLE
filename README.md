@@ -1,5 +1,5 @@
 # TANK-BATTLE
-TANK-BATTLE est jeu d'action réalisé en C avec la librairie graphique SDL 2.0 dans le cadre du module de développemnt d'applications de ma formation en 2ème année de licence informatique l'Université Polytechnique Hauts de France. durant l'année 2020-2021. 
+TANK-BATTLE est jeu d'action réalisé en C et la librairie graphique SDL 2.0 dans le cadre du module de développemnt d'applications de ma formation en 2ème année de licence informatique l'Université Polytechnique Hauts de France. durant l'année 2020-2021. 
 
 Le jeu n'est pas destiné à être commercialisé. Certaines ressources présentes dans le jeu notamment les images et les sons sont soumises à des droits et ne nous appartiennent pas. Pour les bibliothèques, réferez vous à leur licences respectives. Vous pouvez faire tout ce que vous voulez avec le code.
 
